@@ -1,0 +1,4 @@
+slurm*
+Trained_Models/*
+__pycache__/
+.DS_Store
